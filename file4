@@ -1,0 +1,35 @@
+    1  pwd
+    2  sudo apt-get update && sudo apt-get upgrade -y
+    3  pwd
+    4  ls
+    5  cd ..
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd /opt
+   10  ls
+   11  cd ..
+   12  ls
+   13  ls -l
+   14  ls -la 
+   15  ls -lh
+   16  ls -R
+   17  clear
+   18  ls -lrthi
+   19  cd ~
+   20  pwd
+   21  cd ..
+   22  pwd
+   23  cd -
+   24  pwd
+   25  ls -la logs/
+   26  mkdir mydir
+   27  mkdir -p mydir/dir2/dir3
+   28  sudo apt-get install branch
+   29  branch
+   30  touch file1 
+   31  ls
+   32  branch
+   33  touch file2 file3
+   34  branch
+   35  history>> file1
